@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dummy.github.io/static/css/main.e8e846bc.css",
+    "main.js": "/dummy.github.io/static/js/main.dfb4cfb7.js",
+    "index.html": "/dummy.github.io/index.html",
+    "main.e8e846bc.css.map": "/dummy.github.io/static/css/main.e8e846bc.css.map",
+    "main.dfb4cfb7.js.map": "/dummy.github.io/static/js/main.dfb4cfb7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8e846bc.css",
+    "static/js/main.dfb4cfb7.js"
+  ]
+}
